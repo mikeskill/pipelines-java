@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/michal-bk/Sanbox/_apis/build/status/mikeskill.pipelines-java?branchName=master)](https://dev.azure.com/michal-bk/Sanbox/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
